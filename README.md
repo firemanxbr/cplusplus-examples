@@ -1,2 +1,2 @@
 # cplusplus-examples
-My Examples C++
+Samples of my C++ code
